@@ -6,12 +6,12 @@
 
 */
 //Create a Java class for the file and a main!
-
-class Test{
+//Note: Make sure you pay attention to case sentitive code!
+class test{
    
-   public static void Main(String[] args){
+   public static void main(String[] args){
    
-   
+   System.out.println("Hello GitHub!");
    
    
    
